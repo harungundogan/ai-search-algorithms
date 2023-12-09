@@ -7,7 +7,7 @@ This repository contains Python implementations of various search algorithms com
 ## Breadth-First Search (BFS)
 
 ## Overview
-These search algorithms are fundamental in Artifical Intelligence and can be applied to solve various problems, including pathfinding in graphs, optimization in search spaces, and more. Each algorithm has its specific characteristics, advantages, and use cases, contributing to different strategies for exploring search spaces efficiently.
+These search algorithms are fundamental in Artificial Intelligence and can be applied to solve various problems, including pathfinding in graphs, optimization in search spaces, and more. Each algorithm has its specific characteristics, advantages, and use cases, contributing to different strategies for exploring search spaces efficiently.
 Graph Restrictions
 Graph Type: The implemented algorithms are designed for undirected, non-negative weighted graphs.
 Constraints: These algorithms assume finite branching factors in the graphs they operate on.
