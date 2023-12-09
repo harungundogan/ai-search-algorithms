@@ -5,12 +5,14 @@ This repository contains Python implementations of various search algorithms com
 ## Branch and Bound
 ## A* (A-star) Algorithm
 ## Breadth-First Search (BFS)
-Overview
+
+## Overview
 These search algorithms are fundamental in AI and can be applied to solve various problems, including pathfinding in graphs, optimization in search spaces, and more. Each algorithm has its specific characteristics, advantages, and use cases, contributing to different strategies for exploring search spaces efficiently.
 Graph Restrictions
 Graph Type: The implemented algorithms are designed for undirected, non-negative weighted graphs.
 Constraints: These algorithms assume finite branching factors in the graphs they operate on.
 Algorithms
+
 Best-First Search Algorithm Implementation
 ==========================================
 
